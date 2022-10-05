@@ -12,7 +12,6 @@ const UserDetailsScreen = (props) => {
             <Text>lisia.becker@estudante.ifgoiano.edu.br</Text>
 
 
-
         </View>
     )
 
